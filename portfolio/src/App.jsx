@@ -375,7 +375,7 @@ function About({ easterEggSpin }) {
       <div className="container">
         <div className="section__header">
           <span className="section__tag">01 — About</span>
-          <h2 className="section__title">Who I Am</h2>
+          <h2 className="section__title">Who Am I</h2>
         </div>
         <div className="about__grid">
 
